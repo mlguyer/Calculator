@@ -36,6 +36,7 @@
 		B24363721A05E0D400CA11C4 /* CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B24363771A05E0D400CA11C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B24363781A05E0D400CA11C4 /* CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorTests.swift; sourceTree = "<group>"; };
+		B24363821A05E0EA00CA11C4 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		B24363541A05E0D400CA11C4 = {
 			isa = PBXGroup;
 			children = (
+				B24363821A05E0EA00CA11C4 /* MyPlayground.playground */,
 				B243635F1A05E0D400CA11C4 /* Calculator */,
 				B24363751A05E0D400CA11C4 /* CalculatorTests */,
 				B243635E1A05E0D400CA11C4 /* Products */,
